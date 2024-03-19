@@ -1,0 +1,9 @@
+# Bank Management System in C
+
+            - Create Account
+            - Deposit 
+            - Withdraw
+            - Payment
+            - Transfer Money to the Account
+            - Check Balance
+            - Login Functionality
